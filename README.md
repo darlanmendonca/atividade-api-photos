@@ -17,7 +17,7 @@ Steps:
 
 
 1. criar um repos no git
-2. criar uma server com express, que da listen em uma prota
+2. criar uma server com express, que da listen em uma porta
 3. criar um config, multi environment
 4. criar um middleware para arquivos estaticos
 5. criar um router, que ouve no sufix /api
