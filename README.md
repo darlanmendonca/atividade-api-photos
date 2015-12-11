@@ -3,7 +3,7 @@
 Criar uma api que tem por objetivo, permitir ao usuário
 
 - upload de uma imagem, setando categoria, e tags
-- endpoint para pesquisar imagems por tags, ou categoria
+- endpoint para pesquisar imagens por tags, ou categoria
 
 Tecnicamente, deve ter:
 - crud de categorias
@@ -13,7 +13,6 @@ Tecnicamente, deve ter:
 
 
 Steps:
-
 
 
 1. criar um repos no git
